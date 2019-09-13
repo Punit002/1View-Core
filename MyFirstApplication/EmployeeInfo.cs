@@ -22,6 +22,7 @@ namespace MyFirstApplication
                 var type = prop.PropertyType;
                 if (type == typeof(int))
                 {
+                    
 
                 } else if(type == typeof(string))
                 {
